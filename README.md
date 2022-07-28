@@ -27,24 +27,24 @@ Once the app is configured, it is time to place the following block in your Stor
 
 2. Once in the app's settings page, define the following settings according to the desired scenario:
 
-![import-container](https://raw.githubusercontent.com/aplazo/aplazo-component-vtex/master/public/metadata/images/screenshots/3.png?token=GHSAT0AAAAAABUWYA3UFRH6IAKCYUV3LXXWYXBQS3A)
+![import-container](https://aplazo.s3.us-west-1.amazonaws.com/sdk/vtex.component.assets/aplazo-admin-myapps-aplazo.png)
 
 ## Configuration for Product Detail Page CMS
 
 ### Step 1 - Download GTM container
 
-Download GTM [container](https://raw.githubusercontent.com/aplazo/aplazo-component-vtex/master/gtm/GTM-aplazo-container.json?token=GHSAT0AAAAAABUWYA3VEK5MLCJY337S2TQYYXBQTZA) this json contains tags and triggers for aplazo components
+Download GTM [container](https://aplazo.s3.us-west-1.amazonaws.com/sdk/vtex.component.assets/GTM-aplazo-container.json) this json contains tags and triggers for aplazo components
 
 ### Step 2 - Import container into your GTM account
 
 After signed in you GTM account go to Admin > Import Container
 
-![import-container](https://raw.githubusercontent.com/aplazo/aplazo-component-vtex/master/gtm/Screen%20Shot%202022-04-07%20at%205.03.26%20PM.png?token=GHSAT0AAAAAABUWYA3VKWCCUWTMUJHM4PY6YXBQP7A)
+![import-container](https://aplazo.s3.us-west-1.amazonaws.com/sdk/vtex.component.assets/gtm_1.png)
 
 Upload the json file that was downloaded on step 1 and select the workspace from where you want to import the container
 
-![upload-container](https://raw.githubusercontent.com/aplazo/aplazo-component-vtex/master/gtm/Screen%20Shot%202022-04-07%20at%205.04.06%20PM.png?token=GHSAT0AAAAAABUWYA3UFOJJDKDQGXSGD4CMYXBQREA)
+![upload-container](https://aplazo.s3.us-west-1.amazonaws.com/sdk/vtex.component.assets/gtm_2.png)
 
-![select-workspace](https://raw.githubusercontent.com/aplazo/aplazo-component-vtex/master/gtm/Screen%20Shot%202022-04-07%20at%205.05.09%20PM.png?token=GHSAT0AAAAAABUWYA3UJ3K36YCIW4WOZI7SYXBQR3Q)
+![select-workspace](https://aplazo.s3.us-west-1.amazonaws.com/sdk/vtex.component.assets/gtm_3.png)
 
 Confirm and publish changes
